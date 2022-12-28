@@ -3,6 +3,9 @@
 ---
 follow instruction from [this link](https://www.bezkoder.com/react-hooks-crud-axios-api/)
 
+## Notes
+[React Example Noes](https://github.com/Benjamin0203/Obsidian-Sync-Notes/blob/main/00_Important%20Notes/React%20Example%20Notes.md)
+
 
 ## Main page
 [main page](./docs/main-page.png)
