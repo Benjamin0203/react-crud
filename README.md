@@ -7,6 +7,7 @@ follow instruction from [this link](https://www.bezkoder.com/react-hooks-crud-ax
 ## main page
 [main page](./docs/main-page.png)
 
+
 ## Setup
 `npm install`
 
@@ -14,10 +15,10 @@ follow instruction from [this link](https://www.bezkoder.com/react-hooks-crud-ax
 
 on localhost 8081
 
-## current issue:
+## Issue History[Fixed]:
 
 ### on delete: unable to delete single tutorial:
-error message:
+~~error message:
 `
 Tutorial.js:78 
 AxiosError {message: 'Request failed with status code 500', name: 'AxiosError', code: 'ERR_BAD_RESPONSE', config: {…}, request: XMLHttpRequest, …}
@@ -44,7 +45,7 @@ stack
 "AxiosError: Request failed with status code 500\n    at settle (http://localhost:8081/static/js/bundle.js:45263:12)\n    at XMLHttpRequest.onloadend (http://localhost:8081/static/js/bundle.js:43974:66)"
 [[Prototype]]
 : 
-Error`
+Error`~~
 
 ### update
-able to update but still get error message from `app/controllers/tutorial.controller.js` in react-bezkoder folder (back-end)
+~~able to update but still get error message from `app/controllers/tutorial.controller.js` in react-bezkoder folder (back-end)~~
