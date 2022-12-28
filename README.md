@@ -4,8 +4,14 @@
 follow instruction from [this link](https://www.bezkoder.com/react-hooks-crud-axios-api/)
 
 
-## main page
+## Main page
 [main page](./docs/main-page.png)
+
+## Install
+On terminal:
+`npm install bootstrap`
+`npm install react-router-dom`
+`npm install axios`
 
 
 ## Setup
